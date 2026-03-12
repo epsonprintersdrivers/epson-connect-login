@@ -4,8 +4,8 @@ The <a href="https://github.com/epsonprintersdrivers/epson-connect-login/">epson
 <h2>Step 1: Complete Epson Connect Printer Setup</h2>
 Before logging in, make sure your printer is properly configured. The epson connect printer setup connects your printer to the internet and registers it with Epson Connect services.
 
-<h2>Step 2: Visit the Epson Connect Login Page</h2>
-Open your web browser and go to the official <a href="https://github.com/epsonprintersdrivers/epson-connect-login/">epson connect printer setup</a> page. This is where you can access your Epson Connect account.
+<h2>Step 2: Visit the <a href="https://github.com/epsonprintersdrivers/epson-connect-login/">epson connect login</a> Page</h2>
+Open your web browser and go to the official epson connect printer setup page. This is where you can access your Epson Connect account.
 
 <h2>Step 3: Enter Your Account Details</h2>
 Enter your registered email address and password associated with your Epson account. Make sure the information is correct to access your account.
